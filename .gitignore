@@ -1,0 +1,13 @@
+node_modules/
+dist/
+.DS_Store
+*.log
+*.lock
+out/
+build/
+Thumbs.db
+/.idea/
+/.vscode/
+db/*.db*
+
+
