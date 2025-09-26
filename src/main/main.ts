@@ -6,7 +6,7 @@ const isDev = process.env.NODE_ENV !== 'production';
 let mainWindow: BrowserWindow | null = null;
 
 function getPreloadPath(): string {
-  return path.join(__dirname, '../preload/preload.cjs');
+  return path.join(__dirname, '../preload/preload.js');
 }
 
 async function createMainWindow(): Promise<void> {

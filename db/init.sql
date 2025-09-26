@@ -1,0 +1,9 @@
+PRAGMA journal_mode = WAL;
+
+CREATE TABLE IF NOT EXISTS notes (
+  id INTEGER PRIMARY KEY AUTOINCREMENT,
+  content TEXT NOT NULL,
+  createdAt INTEGER NOT NULL
+);
+
+
