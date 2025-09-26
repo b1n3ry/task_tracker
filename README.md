@@ -1,6 +1,18 @@
 # Task Tracker
 
-A modern desktop application built with Electron, React (Vite), TailwindCSS, Express, and SQLite.
+🚀 Cross-Platform Productivity App
+An all-in-one Calendar + Notes + Time Tracking + Clock app built with Electron, React (Vite), Node.js, SQLite, and TailwindCSS.
+Features:
+
+📅 Calendar with tasks & time-blocked notes
+
+⏱️ Time tracking & summaries
+
+⏰ Alarms, timers, Pomodoro focus sessions
+
+🌍 World clock & unlimited stopwatches
+
+Stay organized, productive, and in control of your time across all devices.
 
 ## 🚀 Features
 
